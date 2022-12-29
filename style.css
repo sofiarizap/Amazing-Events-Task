@@ -46,6 +46,7 @@ h1{
 .secc-cards img{
     height: 28vh;
 }
+
 .detalles img{
     height: 60vh;
     width: 55vh;
@@ -54,6 +55,9 @@ h1{
 .formulario{
     display: flex;
     justify-content: center;
+}
+.table{
+    margin: 6vh !important;
 }
 .formulario1{
     border: 2px solid black;
